@@ -1,2 +1,2 @@
-# CTF-ringzer0team
-CTF ringzer0team
+#Hello my Friends
+My First repository on GitHub
