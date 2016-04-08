@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # 3.3.2+ üstü ile çalışın
-# by Özgür DEMİREL
+# by OzgurD
 
 
 from queue import Queue
